@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [API for education platform](https://github.com/Zuzokin/education-platform-API)
 
-- 🌱 I’m currently learning **python Flask, asyncio, pytest, SQLLite, Docker**
+- 🌱 I’m currently learning **FAST-API, asyncio, pytest, SQLLite, Docker**
 
 - 📫 How to reach me **misha-skor2012@yandex.ru**
 
